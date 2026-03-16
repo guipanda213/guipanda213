@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme
 
-<!--
-**guipanda213/guipanda213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Entusiasta de tecnologia e programação  
+🐍 Atualmente estudando **Python**  
+📊 Conhecimento intermediário em **Pacote Office**  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- Experiência em **assistência técnica**
+- Experiência administrativa em **locadora de veículos blindados**
+- Trabalho com **planilhas, cotações e gestão de e-mails**
+- Sempre aprendendo novas tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente aprendendo
+- Python
+- Automação
+- Lógica de programação
+
+## 🛠️ Ferramentas
+- Python
+- Excel
+- Word
+- PowerPoint
+
+## 📫 Contato
+- GitHub: https://github.com/seuusuario
+  
