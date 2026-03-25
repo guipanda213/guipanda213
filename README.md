@@ -23,4 +23,4 @@
 
 ## 📫 Contato
 - GitHub: https://github.com/guipanda213
-  
+- Emai-l: guipanda213@gmail.com
